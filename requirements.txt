@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+plivo
+requests
+httpx[http2]
+websockets
+vosk
+python-dotenv
+pydub

@@ -1,0 +1,5 @@
+<Response>
+    <Stream bidirectional="true" contentType="audio/x-l16;rate=8000" keepCallAlive="true" streamTimeout="120">
+        wss://{hostname}/audiostream
+    </Stream>
+</Response>

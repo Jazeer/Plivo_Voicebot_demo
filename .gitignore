@@ -1,3 +1,9 @@
 .env
 __pycache__/
 *.log
+*.pyc
+models/
+*.wav
+*.aiff
+*.raw
+.DS_Store
