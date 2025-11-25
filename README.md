@@ -68,8 +68,8 @@ App type: XML
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/plivo-voice-bot.git
-cd plivo-voice-bot
+git clone https://github.com/<your-username>/Plivo_Voicebot_demo.git
+cd Plivo-Voicebot_demo
 ````
 
 ### 2️⃣ Create a virtual environment
