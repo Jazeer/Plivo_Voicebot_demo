@@ -69,7 +69,7 @@ App type: XML
 
 ```bash
 git clone https://github.com/<your-username>/Plivo_Voicebot_demo.git
-cd Plivo-Voicebot_demo
+cd Plivo_Voicebot_demo
 ````
 
 ### 2️⃣ Create a virtual environment
