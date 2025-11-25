@@ -228,9 +228,3 @@ Example response:
 ```
 
 ---
-
-
-
-
-Just say the word 🚀
-```
